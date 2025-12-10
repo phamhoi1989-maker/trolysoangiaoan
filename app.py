@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Phạm Văn Hồi - Trường Tiểu học Thiện Kế - ĐT: 0975 787 864</p>
+    <p>Tác giả: Phạm Văn Hồi - Trường Tiểu học Thiện Kế - ĐT: 0975 787 864 </p>
 </div>
 """, unsafe_allow_html=True)
 
